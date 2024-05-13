@@ -1,5 +1,6 @@
 # ActivityTracker for eLitmus
 Demo:[Click here for Demo Video](https://www.youtube.com/watch?v=qX8c6iyBikU)
+
 This project is a web-extension which is used to monitor the user surfing data like
   * the amount of time spent on the browser
   * website specific metrics
@@ -41,6 +42,8 @@ you can find its repo here
 ### Accessing the Backend
 To access the backend you can you can using my credentials as render supports team functionality, but its supposedly subscription based on money.
 so, u can access it using my render credentials
+# email:2110080039@klh.edu.in
+# pwrd:Vikas@123
 ## Additional Notes
 I haveily took an exisiting application's front end which helped me focus on the backend more because i didnt know ruby at all..so learning ruby was a fun experience for me in this overall assignment.
 
