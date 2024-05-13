@@ -37,10 +37,10 @@ and many more
 3. Start the development server:
   To run the extension, there are two ways.
   1. You can run it as an unpacked directory
-     *open chrome and go to "chrome://extensions/"
-     *toggle developer mode on the top-right
-     *choose Loadunpacked on the left panel
-     *browse to the project and select the dist directory
+     * open chrome and go to "chrome://extensions/"
+     * toggle developer mode on the top-right
+     * choose Loadunpacked on the left panel
+     * browse to the project and select the dist directory
      and voila, u have a working extension! 
   2. You can run it as a vite app
      * ```bash
