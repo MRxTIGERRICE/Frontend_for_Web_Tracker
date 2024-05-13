@@ -1,5 +1,5 @@
 # ActivityTracker for eLitmus
-Demo:[[Click here for Demo Video](assets/icons/128*128.png)](https://www.youtube.com/watch?v=qX8c6iyBikU)
+Demo:[Click here for Demo Video](https://www.youtube.com/watch?v=qX8c6iyBikU)
 This project is a web-extension which is used to monitor the user surfing data like
   * the amount of time spent on the browser
   * website specific metrics
