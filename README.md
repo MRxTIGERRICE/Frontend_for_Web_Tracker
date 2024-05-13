@@ -1,6 +1,19 @@
 # ActivityTracker for eLitmus
 Demo:[Click here for Demo Video](https://www.youtube.com/watch?v=qX8c6iyBikU)
 
+What i was able to achieve in this:
+ * user profile on email.
+ * Blacklisting.
+ * Time limits on tabs.
+ * Monitoring
+    * no of sessions
+    * total time on a website
+    * day-to-day record of sessions and time.
+ * Per website analytics.
+ * Graphs and pie-charts for visual explaination.
+ * Exporting user data
+ * logging all the user data on The Rails server.
+
 This project is a web-extension which is used to monitor the user surfing data like
   * the amount of time spent on the browser
   * website specific metrics
@@ -50,6 +63,12 @@ To access the backend you can you can using my credentials as render supports te
 so, u can access it using my render credentials
 # email:2110080039@klh.edu.in
 # pwrd:Vikas@123
+
+## Imporvements
+
+ To implement retrieve functionalities from the databse to the current app for hot-swapping user profiles and retrieving the correct user data
+ as app now is storing a physical copy of the data on the browser and retreiving from there.
+ 
 ## Additional Notes
 I haveily took an exisiting application's front end which helped me focus on the backend more because i didnt know ruby at all..so learning ruby was a fun experience for me in this overall assignment.
 
