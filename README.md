@@ -32,7 +32,7 @@ and many more
   * Install nodejs if u havent installed it using 'https://nodejs.org/en/learn/getting-started/how-to-install-nodejs'
   *after installing nodejs, u need to install vite.
   * ```bas
-    hnpm install vite
+    npm install vite
     ```
 3. Start the development server:
   To run the extension, there are two ways.
