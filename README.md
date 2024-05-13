@@ -1,5 +1,5 @@
 # ActivityTracker for eLitmus
-
+Demo:[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=qX8c6iyBikU)
 This project is a web-extension which is used to monitor the user surfing data like
   * the amount of time spent on the browser
   * website specific metrics
@@ -29,23 +29,18 @@ and many more
      *browse to the project and select the dist directory
      and voila, u have a working extension! 
   2. You can run it as a vite app
-     * run
-       ```bash
-         npm run start
-       ```
+     * ```bash
+        npm run start
+        ```
+4. Accessing the application
+   It will take u through the setup process and once you've installed it..it will be there in your extensions and one of your extension
 
-4. Access the application at `http://localhost:3000`.
-
-## Backend
-
+## Backend-Ruby on Rails
 The backend server for this application is hosted on Render. It provides the necessary APIs for the frontend to interact with the database and perform various operations.
-
+you can find its repo here
 ### Accessing the Backend
-
-The backend server is hosted on Render. You can access it at [backend-url]. Please note that you may need to authenticate or obtain access credentials to interact with the server.
-
+To access the backend you can you can using my credentials as render supports team functionality, but its supposedly subscription based on money.
+so, u can access it using my render credentials
 ## Additional Notes
+I haveily took an exisiting application's front end which helped me focus on the backend more because i didnt know ruby at all..so learning ruby was a fun experience for me in this overall assignment.
 
-- This repository only contains the frontend code for the application. The backend server code is hosted separately on Render.
-- For any issues or feature requests related to the frontend, please [submit an issue](link-to-issue-tracker).
-- For issues related to the backend server or for server-side support, please contact the administrator of the Render service.
