@@ -30,8 +30,12 @@ and many more
 
 2. Install dependencies:
   * Install nodejs if u havent installed it using 'https://nodejs.org/en/learn/getting-started/how-to-install-nodejs'
-  *after installing nodejs, u need to install vite.
-  * ```bas
+  * after installing nodejs, u need to install vite.
+  * ```bash
+    npm install 
+    ```
+  * or if it doesnt work, u can do
+  * ```bash
     npm install vite
     ```
 3. Start the development server:
@@ -59,7 +63,7 @@ you can find its repo here
 To see the Repo for Backend, check ur github for access request as collaborator which has been sent.
 [backend-repo](https://github.com/MRxTIGERRICE/activity-tracker-v1)
 
-To access the backend you can you can using my credentials as render supports team functionality, but its supposedly subscription based on money.
+To access the backend, u need to check it in render, you need to log-in to render and check it from the ddashboard. render supports team functionality, but its supposedly subscription based on money.
 so, u can access it using my render credentials
 # email:2110080039@klh.edu.in
 # pwrd:Vikas@123
