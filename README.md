@@ -56,17 +56,6 @@ and many more
 ## Backend-Ruby on Rails
 
 The backend server for this application is hosted on Render. It provides the necessary APIs for the frontend to interact with the database and perform various operations.
-you can find its repo here
-
-### Accessing the Backend
-
-To see the Repo for Backend, check ur github for access request as collaborator which has been sent.
-[backend-repo](https://github.com/MRxTIGERRICE/activity-tracker-v1)
-
-To access the backend, u need to check it in render, you need to log-in to render and check it from the ddashboard. render supports team functionality, but its supposedly subscription based on money.
-so, u can access it using my render credentials
-# email:2110080039@klh.edu.in
-# pwrd:Vikas@123
 
 ## Imporvements
 
