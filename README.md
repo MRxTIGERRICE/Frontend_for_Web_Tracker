@@ -1,4 +1,4 @@
-# ActivityTracker for eLitmus
+# ActivityTracker
 Demo:[Click here for Demo Video](https://www.youtube.com/watch?v=qX8c6iyBikU)
 
 What i was able to achieve in this:
